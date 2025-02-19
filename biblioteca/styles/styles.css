@@ -1,0 +1,30 @@
+.divLibros{
+    border: 2px solid rgb(93, 173, 226);
+    border-radius: 5px;
+    margin: 15px;
+    padding: 5px;
+    background-color: rgb(214, 234, 248);
+}
+
+.divEnlace{
+    border: 2px solid rgb(244, 208, 63);
+    border-radius: 5px;
+    margin: 15px;
+    padding: 5px;
+    background-color: rgb(247, 220, 111);
+}
+
+.divDescrip{
+    background-color: rgb(223, 217, 217);
+    border: 2px solid rgb(192, 191, 191);
+    padding: 8px;
+}
+
+.container {
+    max-width: 700px; /* Ancho máximo */
+    margin: 0 auto; /* Centrar el container */
+    padding: 20px; /* Espaciado interno */
+    background-color: #f0f8ff; /* Color de fondo */
+    border-radius: 5px; /* Borde */
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.3)
+}
